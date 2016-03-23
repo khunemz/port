@@ -1,0 +1,173 @@
+html { height: 100%; } 
+body { background-color: #fff; }
+hr { margin-top: 20px; margin-bottom: 20px;}
+#top-stripe {  border-top: 5px solid; border-top-color: #6f5499;}
+/* ======================== Navigation ============================ */
+#navigation {
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+
+#navigation h3{
+	padding-top: 20px;
+	text-decoration: none;
+}
+
+#navigation h3 .box-header{
+	background-color: #fff;
+	font-size: 60px;
+	color: #6f5499;
+	font-weight: normal;
+	display: inline-block;
+	padding-top: 17px;
+	border: 2px solid;
+	border-color: #6f5499;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 100px;
+	height: 100px;
+}
+
+.nav {
+	display: inline-block;
+	width: 100%;
+	margin:0 auto;
+	font-size: 16px;
+	list-style: none;
+
+}
+
+/* ======================== Jumbotron ============================ */
+.jumbotron {
+	background-color: #fff;
+	height: 350px;
+	color: #555;
+} 
+
+/* ======================== Marketing ============================ */
+.marketing {
+	display: block;
+	margin-bottom: 50px;
+	text-overflow: hidden;
+}
+
+.marketing h3{
+	color: black;
+	font-size: 22px;
+}
+
+.marketing h4{
+	color: black;
+	font-size: 20px;
+}
+marketing blockquote{
+	color: #777;
+	font-size: 16px;
+}
+
+.marketing-box-left {
+	padding: 10px 10px 10px 10px;
+	margin-top: 5px;
+	height: 300px;
+}
+
+.marketing-box-right {
+	padding: 10px 10px 10px 10px;
+	margin-top: 5px;
+	height: 300px;
+}
+
+.marketing h3{
+	font-weight: 0.6em;
+}
+
+
+/* ======================== Skills ============================ */
+
+.skills {
+	position: relative;
+	display: block;
+	margin-top: 30px;
+	text-overflow: hidden
+}
+
+.skills h3{
+	font-weight: 0.6em;
+	color: black;
+}
+
+.skill-box-left {
+	display: block;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	height: 200px;
+}
+.skill-box-middle {
+	display: block;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	height: 200px;
+}
+.skill-box-right {
+	display: block;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	height: 200px;
+}
+
+.skills ul li .glyphicon {
+	font-size: 2em;
+	margin-left: 3px;
+	padding-bottom: 3px;
+	color: #777;
+}
+
+
+/* ======================== Footer ============================ */
+
+.footer-box{
+	height: 200px;
+}
+
+.connect {
+	position: relative;
+	padding-top: 40px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+
+.connect h4{
+	font-weight: normal;
+	color: #555;
+}
+
+.copyright {
+	padding-top: 40px;
+}
+
+.copyright h4{
+	font-weight: normal;
+	color: #555;
+}
+/* ======================== Secondary Nav ============================ */
+.nav {
+	margin-top: 10px;
+	height: 50px;
+}
+
+
+/* ======================== Quote ============================ */
+.quote blockquote{
+	background-color: #eee;
+	border-left-color: #777;
+}
+
+.quote blockquote:hover{
+	background-color: #fff;
+
+}
+
+.quote h4:hover{
+	color: #6f5499;
+}

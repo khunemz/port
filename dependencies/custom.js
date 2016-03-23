@@ -1,0 +1,14 @@
+$(document).ready(function(){
+  		$('#top-stripe').addClass('fadeInLeft');
+  		$('#navigation').addClass('fadeIn');
+  		$('jumbotron').addClass('fadeIn');
+  		$('#caption').addClass('bounceIn');
+      $('margeting-heading').addClass('flipInX');
+  		$('marketing-box-left').addClass('fadeInLeft');
+  		$('marketing-box-right').addClass('fadeInRight');
+      $('skills-heading').addClass('fadeIn');
+  		$('skill-box-right').addClass('fadeInRight');
+  		$('skill-box-middle').addClass('flipInX');
+  		$('skill-box-left').addClass('fadeInLeft');
+      $('footer-box').addClass('fadeInLeft');
+  	});
